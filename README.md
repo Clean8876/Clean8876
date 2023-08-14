@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Clean8876
-- 👀 I’m interested in Atoms
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Nothing
-- 📫 How to reach me juST tEXT
+- hey this is SouthernOrbo(clean)
+- i dont think too much,but its goes beyond 😆
+-  I’m currently learning TensorfLow
+- dumb As You think
 
 <!---
 Clean8876/Clean8876 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
