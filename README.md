@@ -1,7 +1,7 @@
 - hey this is SouthernOrbo(clean)
 - i dont think too much,but its goes beyond 😆
 -  I’m currently learning TensorfLow
-- dumb As You think
+-  i think im advanced in python
 
 <!---
 Clean8876/Clean8876 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
