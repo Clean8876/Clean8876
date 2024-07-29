@@ -1,9 +1,3 @@
-- hey this is SouthernOrbo(clean)
-- i dont think too much,but its goes beyond 😆
--  I’m currently learning TensorfLow
--  i think im advanced in python
+Hello, this is Uttam Shetty!
 
-<!---
-Clean8876/Clean8876 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Highly skilled in the MERN stack of technologies comprising MongoDB, Express.js, React.js, and Node.js, and with a strong foundation in Django and Python programming. I enjoy developing effective, scalable, and user-friendly applications. My experience is based on multiple projects where I designed, developed, and constructed full-stack solutions while contributing to frontend and backend development.
